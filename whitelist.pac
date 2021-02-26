@@ -271,6 +271,7 @@ var white_domains = {
     },
     "com": {
         "imgur": 1,
+        "test-ipv6": 1,
         "imgtu": 1,
         "scichina": 1,
         "patsev": 1,

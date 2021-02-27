@@ -270,6 +270,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "hostwinds": 1,
         "imgur": 1,
         "test-ipv6": 1,
         "imgtu": 1,

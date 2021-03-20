@@ -270,6 +270,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "gstatic": 1,
         "hicloud": 1,
         "harmonyos": 1,
         "hostwinds": 1,

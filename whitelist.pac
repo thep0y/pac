@@ -37,6 +37,7 @@ var white_domains = {
         "icoc": 1
     },
     "ms": {
+        "gfx": 1,
         "sm": 1,
     },
     "cx": {
@@ -270,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "aspnetcdn": 1,
         "skype": 1,
         "gstatic": 1,
         "hicloud": 1,

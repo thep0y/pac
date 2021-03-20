@@ -270,6 +270,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "skype": 1,
         "gstatic": 1,
         "hicloud": 1,
         "harmonyos": 1,
@@ -8916,6 +8917,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "office": 1,
         "mozilla": 1,
         "msedge": 1,
         "msauth": 1,

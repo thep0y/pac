@@ -9908,6 +9908,7 @@ var white_domains = {
         "zzrc": 1
     },
     "org": {
+        "fastgit": 1,
         "deepin": 1,
         "b3log": 1,
         "mozilla": 1,

@@ -271,6 +271,10 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "icloud": 1,
+        "globalsign": 1,
+        "exp-tas": 1,
+        "todesk": 1,
         "aliyundrive": 1,
         "sublimehq": 1,
         "tencent-cloud": 1,

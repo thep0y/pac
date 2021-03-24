@@ -10341,6 +10341,11 @@ function isInDomains(domain_dict, host) {
     var suffix;
     var pos1 = host.lastIndexOf('.');
 
+    // ipv6网址用直连
+    if (host.indexOf("ipv6") > -1) {
+        return true
+    }
+
     suffix = host.substring(pos1 + 1);
     if (suffix == "cn" || suffix == "nd" || suffix == "localhost" ||
         suffix == "local" || suffix == "dev" || suffix == "test" ||

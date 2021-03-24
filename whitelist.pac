@@ -271,6 +271,8 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "sublimehq": 1,
+        "tencent-cloud": 1,
         "aspnetcdn": 1,
         "skype": 1,
         "gstatic": 1,

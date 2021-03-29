@@ -9907,7 +9907,13 @@ var white_domains = {
         "zzph": 1,
         "zzrc": 1
     },
+    "nl": {
+        "steffann": 1,
+    },
     "org": {
+        "vyncke": 1,
+        "nogalliance": 1,
+        "8n1": 1,
         "fastgit": 1,
         "deepin": 1,
         "b3log": 1,

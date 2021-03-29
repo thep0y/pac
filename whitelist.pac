@@ -8868,6 +8868,7 @@ var white_domains = {
         "xsren": 1
     },
     "im": {
+        "qingg": 1,
         "shimo": 1,
         "cli": 1,
         "netease": 1,

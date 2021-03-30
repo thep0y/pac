@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "iodraw": 1,
         "icloud": 1,
         "globalsign": 1,
         "exp-tas": 1,

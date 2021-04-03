@@ -271,6 +271,8 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "googletagmanager": 1,
+        "ravenjs": 1,
         "iodraw": 1,
         "icloud": 1,
         "globalsign": 1,

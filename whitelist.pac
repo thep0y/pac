@@ -8930,6 +8930,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "loli": 1,
         "rsb": 1,
         "akamaized": 1,
         "speedtest": 1,

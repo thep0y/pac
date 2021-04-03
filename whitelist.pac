@@ -8928,6 +8928,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "akamaized": 1,
         "speedtest": 1,
         "office": 1,
         "mozilla": 1,

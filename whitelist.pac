@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "jetbrains": 1,
         "douchacha": 1,
         "apple-mapkit": 1,
         "cdn-apple": 1,

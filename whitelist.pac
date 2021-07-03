@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "biantube": 1,
         "sascha-simon": 1,
         "dbeaver": 1,
         "alipayobjects": 1,

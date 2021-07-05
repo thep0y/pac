@@ -8938,6 +8938,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "wsldownload.azureedge": 1,
         "loli": 1,
         "rsb": 1,
         "akamaized": 1,

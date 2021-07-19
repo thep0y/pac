@@ -314,7 +314,6 @@ var white_domains = {
         "msn": 1,
         "windows": 1,
         "office": 1,
-        "live": 1,
         "microsoft": 1,
         "hacpai": 1,
         "kk2w1": 1,

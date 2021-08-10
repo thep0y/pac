@@ -9927,6 +9927,7 @@ var white_domains = {
         "steffann": 1,
     },
     "org": {
+        "cn.vuejs": 1,
         "vyncke": 1,
         "nogalliance": 1,
         "8n1": 1,

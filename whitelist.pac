@@ -10378,7 +10378,7 @@ function isInDomains(domain_dict, host) {
 
     suffix = host.substring(pos1 + 1);
     if (suffix == "cn" || suffix == "nd" || suffix == "localhost" ||
-        suffix == "local" || suffix == "dev" || suffix == "test" ||
+        suffix == "local" || suffix == "test" ||
         suffix == "onion" || suffix == "exit" || suffix == "bitnet" ||
         suffix == "uucp" || suffix == "example" || suffix == "invalid") {
         return true;

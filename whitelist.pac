@@ -10319,6 +10319,9 @@ var white_domains = {
     },
     "xn--fiqs8s": {
         "": 1
+    },
+    "club": {
+        "wfdata": 1
     }
 };
 

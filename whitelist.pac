@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "ghproxy": 1,
         "51kim": 1,
         "biantube": 1,
         "sascha-simon": 1,

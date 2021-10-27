@@ -9930,6 +9930,7 @@ var white_domains = {
         "steffann": 1,
     },
     "org": {
+        "altervista": 1,
         "cn.vuejs": 1,
         "vyncke": 1,
         "nogalliance": 1,

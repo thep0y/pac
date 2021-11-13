@@ -10418,6 +10418,12 @@ function isInDomains(domain_dict, host) {
 function FindProxyForURL(url, host) {
     url = "" + url;
     host = "" + host;
+
+    // 不是 http 或 https 协议的请求不走代理
+    if (!(url.startsWith("http:") || url.startsWith("https:"))) {
+        return direct;
+    }
+
     if (isPlainHostName(host) === true) {
         return direct;
     }

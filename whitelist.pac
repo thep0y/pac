@@ -305,7 +305,6 @@ var white_domains = {
         "test-ipv6": 1,
         "imgtu": 1,
         "scichina": 1,
-        "patsev": 1,
         "digicert": 1,
         "pcbeta": 1,
         "51daili": 1,

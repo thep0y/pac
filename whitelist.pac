@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "outlookmobile": 1,
         "tencentcs": 1,
         "mmstat": 1,
         "hc-cdn": 1,

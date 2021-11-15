@@ -19,7 +19,8 @@ var white_domains = {
         "wemp": 1
     },
     "ai": {
-        "deepvision": 1
+        "deepvision": 1,
+        "cortana": 1,
     },
     "wiki": {
         "huiji": 1

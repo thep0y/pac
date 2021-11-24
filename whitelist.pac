@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "s-microsoft": 1,
         "akamaitechnologies": 1,
         "msftconnecttest": 1,
         "live": 1,
@@ -8948,6 +8949,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "cloudfront": 1,
         "mcast": 1,
         "l-msedge": 1,
         "akamai": 1,

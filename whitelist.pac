@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "msftconnecttest": 1,
         "live": 1,
         "dy2018": 1,
         "outlookmobile": 1,

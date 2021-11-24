@@ -8946,6 +8946,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "mcast": 1,
         "l-msedge": 1,
         "akamai": 1,
         "akamaiedge": 1,

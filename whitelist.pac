@@ -4,6 +4,9 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 var white_domains = {
+    "akamaite": {
+        "static": 1
+    },
     "live": {
         "zhuafan": 1,
         "justfun": 1

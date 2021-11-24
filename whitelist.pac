@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "live": 1,
         "dy2018": 1,
         "outlookmobile": 1,
         "tencentcs": 1,
@@ -8945,6 +8946,9 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "l-msedge": 1,
+        "akamai": 1,
+        "akamaiedge": 1,
         "wsldownload.azureedge": 1,
         "loli": 1,
         "rsb": 1,

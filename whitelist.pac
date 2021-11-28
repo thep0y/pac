@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "deepin": 1,
         "s-microsoft": 1,
         "akamaitechnologies": 1,
         "msftconnecttest": 1,

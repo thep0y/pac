@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "makeapie": 1,
         "myhuaweicloud": 1,
         "deepin": 1,
         "s-microsoft": 1,

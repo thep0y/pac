@@ -1,0 +1,1 @@
+需要使用cdn：https://cdn.jsdelivr.net/gh/thep0y/pac/whitelist.pac

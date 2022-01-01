@@ -272,6 +272,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "uniontech": 1,
         "cutefishos": 1,
         "myhuaweicloud": 1,
         "deepin": 1,

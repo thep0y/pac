@@ -272,7 +272,9 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "hanlp": 1,
         "alicloudccp": 1,
+        "iflyrec": 1,
         "uniontech": 1,
         "cutefishos": 1,
         "myhuaweicloud": 1,

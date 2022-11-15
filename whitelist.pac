@@ -260,7 +260,6 @@ var white_domains = {
         "yinshua": 1
     },
     "co": {
-        "v2ex": 1,
         "meijubie": 1,
         "425300": 1,
         "banzhu": 1,
@@ -7569,7 +7568,6 @@ var white_domains = {
         "uzai": 1,
         "uzaicdn": 1,
         "uzzf": 1,
-        "v2ex": 1,
         "v312": 1,
         "v3gp": 1,
         "value500": 1,

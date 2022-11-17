@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "cpcccac": 1,
         "jihulab": 1,
         "alibabacloud": 1,
         "helloimg": 1,

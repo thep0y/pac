@@ -271,6 +271,7 @@ var white_domains = {
         "ychdzx": 1
     },
     "com": {
+        "github": 1, // 经常波动，随实际情况直接或代理
         "cpcccac": 1,
         "jihulab": 1,
         "alibabacloud": 1,

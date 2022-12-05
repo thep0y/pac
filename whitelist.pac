@@ -9020,7 +9020,7 @@ var white_domains = {
         "3304399": 1,
         "zhanzhang": 1,
         "88rpg": 1,
-        "jsdelivr": 1,
+        "cdn.jsdelivr": 1,
         "sina": 1,
         "wt-cn01": 1,
         "mingsoft": 1,

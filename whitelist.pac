@@ -8959,6 +8959,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "aliyundrive": 1,
         "gitcode": 1,
         "cloudfront": 1,
         "mcast": 1,

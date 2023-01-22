@@ -8959,6 +8959,7 @@ var white_domains = {
         "i1515": 1
     },
     "net": {
+        "aidouer": 1,
         "cn.mm.bing.net": 1,
         "s.cn.bing": 1,
         "aliyundrive": 1,

@@ -91,6 +91,7 @@ var white_domains = {
         "zhaoming": 1
     },
     "cc": {
+        "thepoy": 1,
         "cip": 1,
         "haiduomi": 1,
         "dysfz": 1,

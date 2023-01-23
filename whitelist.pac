@@ -8960,7 +8960,7 @@ var white_domains = {
     },
     "net": {
         "aidouer": 1,
-        "cn.mm.bing.net": 1,
+        "cn.mm.bing": 1,
         "s.cn.bing": 1,
         "aliyundrive": 1,
         "gitcode": 1,

@@ -273,6 +273,7 @@ var white_domains = {
     },
     "com": {
         // "github": 1, // 经常波动，随实际情况直连或代理
+        "imgtg": 1,
         "cpcccac": 1,
         "jihulab": 1,
         "alibabacloud": 1,

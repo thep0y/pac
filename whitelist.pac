@@ -273,6 +273,7 @@ var white_domains = {
     },
     "com": {
         // "github": 1, // 经常波动，随实际情况直连或代理
+        "cn.bing": 1,
         "alidns": 1,
         "imgse": 1,
         "imgtg": 1,
@@ -337,7 +338,7 @@ var white_domains = {
         "svw-volkswagen": 1,
         "office365": 1,
         "outlook": 1,
-        "bing": 1,
+        // "bing": 1,
         "msn": 1,
         "windows": 1,
         "office": 1,

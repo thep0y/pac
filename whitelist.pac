@@ -273,6 +273,7 @@ var white_domains = {
     },
     "com": {
         // "github": 1, // 经常波动，随实际情况直连或代理
+        "123pan": 1,
         "cn.bing": 1,
         "alidns": 1,
         "imgse": 1,

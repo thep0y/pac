@@ -18,6 +18,8 @@ var black_domains = {
         "ggpht": 1,
         "googleusercontent": 1,
         "github": 1,
+        "githubassets": 1,
+        "githubusercontent": 1,
     },
     "net": {
         "doubleclick": 1

@@ -13,6 +13,7 @@ var rules = [
     ],
     [
         [
+            "chat.openai.com",
             "openai.com",
             "aftygh.gov.tw",
             "aide.gov.tw",

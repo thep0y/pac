@@ -5570,6 +5570,7 @@ var lastRule = '';
 
 function FindProxyForURL(url, host) {
     for (var i = 0; i < rules.length; i++) {
+        let item = rules[i]
         if (host === item || host.endsWith('.' + item)) {
             return proxy
         }

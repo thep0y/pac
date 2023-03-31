@@ -10,7 +10,8 @@ var proxy = "SOCKS5 127.0.0.1:1086;SOCKS 127.0.0.1:1086";
 var black_domains = {
     "com": {
         "openai": 1,
-        "google": 1
+        "google": 1,
+        "youtube": 1,
     },
     "hk": {
         "google.com": 1

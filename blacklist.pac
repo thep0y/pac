@@ -12,6 +12,13 @@ var black_domains = {
         "openai": 1,
         "google": 1,
         "youtube": 1,
+        "ytimg": 1,
+        "googlevideo": 1,
+        "googleapis": 1,
+        "ggpht": 1,
+    },
+    "net": {
+        "doubleclick": 1
     },
     "hk": {
         "google.com": 1

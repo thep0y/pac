@@ -6,6 +6,13 @@
  */
 
 var proxy = "SOCKS5 127.0.0.1:1086;SOCKS 127.0.0.1:1086";
+
+var black_domains = {
+    "com": {
+        "openai": 1,
+        "google": 1
+    }
+}
 var rules = [
     "openai.com",
     "aftygh.gov.tw",
@@ -5566,29 +5573,53 @@ var rules = [
     "rinkeby.etherscan.io",
 ]
 
-var lastRule = '';
+function isInDomains(domain_dict, host) {
+    var suffix;
+    var pos1 = host.lastIndexOf('.');
+
+    // ipv6网址用直连
+    if (host.indexOf("ipv6") > -1) {
+        return false
+    }
+
+    suffix = host.substring(pos1 + 1);
+    if (suffix == "cn" || suffix == "nd" || suffix == "localhost" ||
+        suffix == "local" || suffix == "test" ||
+        suffix == "onion" || suffix == "exit" || suffix == "bitnet" ||
+        suffix == "uucp" || suffix == "example" || suffix == "invalid") {
+        return false;
+    }
+
+    var domains = domain_dict[suffix];
+
+    // 黑名单中不存在顶级域名走直连
+    if (domains === undefined) {
+        return false;
+    }
+
+    host = host.substring(0, pos1);
+    var pos = host.lastIndexOf('.');
+
+    while (1) {
+        if (pos <= 0) {
+            if (hasOwnProperty.call(domains, host)) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+        suffix = host.substring(pos + 1);
+        if (hasOwnProperty.call(domains, suffix)) {
+            return true;
+        }
+        pos = host.lastIndexOf('.', pos - 1);
+    }
+}
 
 function FindProxyForURL(url, host) {
-    for (var i = 0; i < rules.length; i++) {
-        let item = rules[i]
-        if (host === item || host.endsWith('.' + item)) {
-            return proxy
-        }
+    if (isInDomains(black_domains, host)) {
+        return proxy
     }
 
     return 'DIRECT';
-}
-
-
-// REF: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith
-if (!String.prototype.endsWith) {
-    String.prototype.endsWith = function (searchString, position) {
-        var subjectString = this.toString();
-        if (typeof position !== 'number' || !isFinite(position) || Math.floor(position) !== position || position > subjectString.length) {
-            position = subjectString.length;
-        }
-        position -= searchString.length;
-        var lastIndex = subjectString.indexOf(searchString, position);
-        return lastIndex !== -1 && lastIndex === position;
-    };
 }

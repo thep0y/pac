@@ -16,6 +16,7 @@ var black_domains = {
         "googlevideo": 1,
         "googleapis": 1,
         "ggpht": 1,
+        "googleusercontent": 1,
     },
     "net": {
         "doubleclick": 1

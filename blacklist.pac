@@ -11,6 +11,9 @@ var black_domains = {
     "com": {
         "openai": 1,
         "google": 1
+    },
+    "hk": {
+        "google.com": 1
     }
 }
 var rules = [

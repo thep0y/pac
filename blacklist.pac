@@ -20,6 +20,7 @@ var black_domains = {
         "github": 1,
         "githubassets": 1,
         "githubusercontent": 1,
+        "appspot": 1,
     },
     "net": {
         "doubleclick": 1

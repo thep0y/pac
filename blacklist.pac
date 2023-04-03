@@ -27,6 +27,9 @@ var black_domains = {
     },
     "hk": {
         "google.com": 1
+    },
+    "io": {
+        "packagecontrol": 1
     }
 }
 

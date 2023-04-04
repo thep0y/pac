@@ -36,7 +36,8 @@ var black_domains = {
         "packagecontrol": 1
     },
     "org": {
-        "python": 1
+        "python": 1,
+        "fao": 1,
     }
 }
 

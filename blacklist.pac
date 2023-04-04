@@ -22,10 +22,11 @@ var black_domains = {
         "githubusercontent": 1,
         "appspot": 1,
         "live": 1,
-        "msauth": 1,
-        "msftauth": 1,
     },
     "net": {
+        "msauth": 1,
+        "msftauth": 1,
+        "azureedge": 1,
         "doubleclick": 1
     },
     "hk": {

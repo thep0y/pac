@@ -34,6 +34,9 @@ var black_domains = {
     },
     "io": {
         "packagecontrol": 1
+    },
+    "org": {
+        "python": 1
     }
 }
 

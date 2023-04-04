@@ -23,6 +23,7 @@ var black_domains = {
         "appspot": 1,
         "live": 1,
         "msauth": 1,
+        "msftauth": 1,
     },
     "net": {
         "doubleclick": 1

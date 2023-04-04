@@ -27,7 +27,8 @@ var black_domains = {
         "msauth": 1,
         "msftauth": 1,
         "azureedge": 1,
-        "doubleclick": 1
+        "doubleclick": 1,
+        "jsdelivr": 1,
     },
     "hk": {
         "google.com": 1

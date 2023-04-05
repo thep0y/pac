@@ -23,18 +23,21 @@ var black_domains = {
         "appspot": 1,
         "live": 1,
     },
-    "net": {
-        "msauth": 1,
-        "msftauth": 1,
-        "azureedge": 1,
-        "doubleclick": 1,
-        "jsdelivr": 1,
+    "eu": {
+        "europa": 1
     },
     "hk": {
         "google.com": 1
     },
     "io": {
         "packagecontrol": 1
+    },
+    "net": {
+        "msauth": 1,
+        "msftauth": 1,
+        "azureedge": 1,
+        "doubleclick": 1,
+        "jsdelivr": 1,
     },
     "org": {
         "python": 1,

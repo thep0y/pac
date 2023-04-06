@@ -43,6 +43,7 @@ var black_domains = {
         "python": 1,
         "fao": 1,
         "wikimedia": 1,
+        "pypi": 1,
     }
 }
 

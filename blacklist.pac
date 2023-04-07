@@ -31,7 +31,8 @@ var black_domains = {
     },
     "io": {
         "packagecontrol": 1,
-        "pypa": 1
+        "pypa": 1,
+        "github": 1,
     },
     "net": {
         "msauth": 1,

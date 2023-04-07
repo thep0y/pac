@@ -30,7 +30,8 @@ var black_domains = {
         "google.com": 1
     },
     "io": {
-        "packagecontrol": 1
+        "packagecontrol": 1,
+        "pypa": 1
     },
     "net": {
         "msauth": 1,

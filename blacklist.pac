@@ -22,6 +22,7 @@ var black_domains = {
         "githubusercontent": 1,
         "appspot": 1,
         "live": 1,
+        'steampowered': 1
     },
     "eu": {
         "europa": 1

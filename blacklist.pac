@@ -24,6 +24,8 @@ var black_domains = {
         "live": 1,
         'steampowered': 1,
         'nvidia': 1,
+        'palletsprojects': 1,
+        'stackoverflow': 1,
     },
     "eu": {
         "europa": 1

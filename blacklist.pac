@@ -27,6 +27,9 @@ var black_domains = {
         'palletsprojects': 1,
         'stackoverflow': 1,
     },
+    "design": {
+        "ant": 1
+    },
     "eu": {
         "europa": 1
     },

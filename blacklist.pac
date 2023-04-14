@@ -30,6 +30,9 @@ var black_domains = {
     "eu": {
         "europa": 1
     },
+    "gg": {
+        "discord": 1,
+    },
     "hk": {
         "google.com": 1
     },

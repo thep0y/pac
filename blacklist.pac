@@ -32,6 +32,9 @@ var black_domains = {
     "design": {
         "ant": 1
     },
+    "dev": {
+        "pub": 1
+    },
     "eu": {
         "europa": 1
     },

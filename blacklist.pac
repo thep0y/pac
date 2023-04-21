@@ -28,6 +28,7 @@ var black_domains = {
         'stackoverflow': 1,
         // bing 不加入黑名单无法使用 ai
         "bing": 1,
+        "medium": 1
     },
     "design": {
         "ant": 1

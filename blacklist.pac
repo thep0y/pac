@@ -27,9 +27,23 @@ var black_domains = {
         "live": 1,
         'steampowered': 1,
         'nvidia': 1,
+        'palletsprojects': 1,
+        'stackoverflow': 1,
+        // bing 不加入黑名单无法使用 ai
+        "bing": 1,
+        "medium": 1
+    },
+    "design": {
+        "ant": 1
+    },
+    "dev": {
+        "pub": 1
     },
     "eu": {
         "europa": 1
+    },
+    "gg": {
+        "discord": 1,
     },
     "hk": {
         "google.com": 1
@@ -38,6 +52,7 @@ var black_domains = {
         "packagecontrol": 1,
         "pypa": 1,
         "github": 1,
+        "intercom": 1,
     },
     "net": {
         "msauth": 1,

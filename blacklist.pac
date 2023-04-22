@@ -8,6 +8,9 @@
 var proxy = "SOCKS5 127.0.0.1:1086;SOCKS 127.0.0.1:1086";
 
 var black_domains = {
+    "app": {
+        "csb": 1
+    },
     "com": {
         "openai": 1,
         "google": 1,
@@ -42,6 +45,7 @@ var black_domains = {
         "azureedge": 1,
         "doubleclick": 1,
         "jsdelivr": 1,
+        "algolia": 1,
     },
     "org": {
         "python": 1,

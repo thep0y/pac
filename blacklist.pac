@@ -8,6 +8,9 @@
 var proxy = "SOCKS5 127.0.0.1:1086;SOCKS 127.0.0.1:1086";
 
 var black_domains = {
+    "ai": {
+        "theb": 1,
+    },
     "app": {
         "csb": 1
     },
@@ -31,7 +34,7 @@ var black_domains = {
         'stackoverflow': 1,
         // bing 不加入黑名单无法使用 ai
         "bing": 1,
-        "medium": 1
+        "medium": 1,
     },
     "design": {
         "ant": 1

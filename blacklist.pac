@@ -71,6 +71,7 @@ var black_domains = {
         "fao": 1,
         "wikimedia": 1,
         "pypi": 1,
+        "apache": 1,
     }
 }
 

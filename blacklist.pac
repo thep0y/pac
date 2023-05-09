@@ -57,6 +57,7 @@ var black_domains = {
         "pypa": 1,
         "github": 1,
         "intercom": 1,
+        "readthedocs": 1,
     },
     "net": {
         "msauth": 1,

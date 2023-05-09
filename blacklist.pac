@@ -36,6 +36,9 @@ var black_domains = {
         "bing": 1,
         "medium": 1,
         "reddit": 1,
+        "imgur": 1,
+        "googletagmanager": 1,
+        "googlesyndication": 1,
     },
     "design": {
         "ant": 1
@@ -66,6 +69,7 @@ var black_domains = {
         "doubleclick": 1,
         "jsdelivr": 1,
         "algolia": 1,
+        "sstatic": 1,
     },
     "org": {
         "python": 1,

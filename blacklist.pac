@@ -39,6 +39,7 @@ var black_domains = {
         "imgur": 1,
         "googletagmanager": 1,
         "googlesyndication": 1,
+        "linkedin": 1,
     },
     "design": {
         "ant": 1

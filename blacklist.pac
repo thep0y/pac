@@ -77,6 +77,9 @@ var black_domains = {
         "wikimedia": 1,
         "pypi": 1,
         "apache": 1,
+    },
+    "to": {
+        "dev": 1,
     }
 }
 

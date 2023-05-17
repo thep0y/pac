@@ -40,6 +40,7 @@ var black_domains = {
         "googletagmanager": 1,
         "googlesyndication": 1,
         "linkedin": 1,
+        "redditmedia": 1,
     },
     "design": {
         "ant": 1
@@ -62,6 +63,7 @@ var black_domains = {
         "github": 1,
         "intercom": 1,
         "readthedocs": 1,
+        "sentry": 1,
     },
     "it": {
         "redd": 1,

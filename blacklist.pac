@@ -63,6 +63,9 @@ var black_domains = {
         "intercom": 1,
         "readthedocs": 1,
     },
+    "it": {
+        "redd": 1,
+    },
     "net": {
         "msauth": 1,
         "msftauth": 1,

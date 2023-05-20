@@ -41,6 +41,7 @@ var black_domains = {
         "googlesyndication": 1,
         "linkedin": 1,
         "redditmedia": 1,
+        "facebook": 1,
     },
     "design": {
         "ant": 1

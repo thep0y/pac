@@ -77,6 +77,7 @@ var black_domains = {
         "jsdelivr": 1,
         "algolia": 1,
         "sstatic": 1,
+        "fbcdn": 1,
     },
     "org": {
         "python": 1,

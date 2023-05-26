@@ -45,6 +45,9 @@ var black_domains = {
         "anthropic": 1,
         "hsforms": 1,
     },
+    "community": {
+        "caddy": 1,
+    },
     "design": {
         "ant": 1
     },

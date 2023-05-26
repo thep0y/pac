@@ -43,6 +43,7 @@ var black_domains = {
         "redditmedia": 1,
         "facebook": 1,
         "anthropic": 1,
+        "hsforms": 1,
     },
     "design": {
         "ant": 1
@@ -58,6 +59,9 @@ var black_domains = {
     },
     "hk": {
         "google.com": 1
+    },
+    "host": {
+        "assets-servd": 1
     },
     "io": {
         "packagecontrol": 1,

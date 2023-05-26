@@ -44,6 +44,7 @@ var black_domains = {
         "facebook": 1,
         "anthropic": 1,
         "hsforms": 1,
+        "caddyserver": 1,
     },
     "community": {
         "caddy": 1,

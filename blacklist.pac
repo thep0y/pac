@@ -42,6 +42,7 @@ var black_domains = {
         "linkedin": 1,
         "redditmedia": 1,
         "facebook": 1,
+        "anthropic": 1,
     },
     "design": {
         "ant": 1

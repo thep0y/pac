@@ -100,6 +100,10 @@ var black_domains = {
     }
 }
 
+function isGoogle(host) {
+    return host.slice(host.length - 10, host.length) === 'google.com'
+}
+
 function isInDomains(domain_dict, host) {
     var suffix;
     var pos1 = host.lastIndexOf('.');
@@ -117,6 +121,11 @@ function isInDomains(domain_dict, host) {
         return false;
     }
 
+    host = host.substring(0, pos1);
+    if (isGoogle(host)) {
+        return true
+    }
+
     var domains = domain_dict[suffix];
 
     // 黑名单中不存在顶级域名走直连
@@ -124,7 +133,6 @@ function isInDomains(domain_dict, host) {
         return false;
     }
 
-    host = host.substring(0, pos1);
     var pos = host.lastIndexOf('.');
 
     while (1) {

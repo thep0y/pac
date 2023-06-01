@@ -45,6 +45,7 @@ var black_domains = {
         "anthropic": 1,
         "hsforms": 1,
         "caddyserver": 1,
+        "mail": 1,
     },
     "community": {
         "caddy": 1,
@@ -94,7 +95,6 @@ var black_domains = {
         "wikimedia": 1,
         "pypi": 1,
         "apache": 1,
-        "wikipedia": 1,
     },
     "to": {
         "dev": 1,

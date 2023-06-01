@@ -88,6 +88,7 @@ var black_domains = {
         "algolia": 1,
         "sstatic": 1,
         "fbcdn": 1,
+        "bing": 1,
     },
     "org": {
         "python": 1,

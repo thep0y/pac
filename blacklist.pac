@@ -102,6 +102,10 @@ var black_domains = {
     }
 }
 
+const wss = [
+    'wss://sydney.bing.com/sydney/ChatHub',
+]
+
 function isGoogle(host) {
     return host.slice(host.length - 10, host.length) === 'google.com'
 }
@@ -154,6 +158,10 @@ function isInDomains(domain_dict, host) {
 }
 
 function FindProxyForURL(url, host) {
+    if (wss.indexOf(url) > -1) {
+        return proxy
+    }
+
     if (isInDomains(black_domains, host)) {
         return proxy
     }

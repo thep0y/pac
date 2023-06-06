@@ -49,6 +49,7 @@ var black_domains = {
         "discord": 1,
         "discordapp": 1,
         "midjourney": 1,
+        "cloudflare": 1,
     },
     "community": {
         "caddy": 1,

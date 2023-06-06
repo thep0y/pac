@@ -47,6 +47,7 @@ var black_domains = {
         "caddyserver": 1,
         "mail": 1,
         "discord": 1,
+        "discordapp": 1,
     },
     "community": {
         "caddy": 1,
@@ -90,6 +91,7 @@ var black_domains = {
         "sstatic": 1,
         "fbcdn": 1,
         "bing": 1,
+        "discordapp": 1,
     },
     "org": {
         "python": 1,

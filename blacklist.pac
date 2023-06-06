@@ -46,6 +46,7 @@ var black_domains = {
         "hsforms": 1,
         "caddyserver": 1,
         "mail": 1,
+        "discord": 1,
     },
     "community": {
         "caddy": 1,

@@ -52,6 +52,7 @@ var black_domains = {
         "cloudflare": 1,
         "googletagmanager": 1,
         "stripe": 1,
+        "msn": 1,
     },
     "community": {
         "caddy": 1,

@@ -141,6 +141,10 @@ function isInDomains(domain_dict, host) {
         return false;
     }
 
+    if (suffix == "gov") {
+        return true;
+      }
+
     host = host.substring(0, pos1);
     if (isGoogle(host)) {
         return true

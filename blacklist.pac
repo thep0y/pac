@@ -68,6 +68,9 @@ var black_domains = {
     "gg": {
         "discord": 1,
     },
+    "gov": {
+        "state": 1,
+    },
     "hk": {
         "google.com": 1
     },

@@ -141,9 +141,9 @@ function isInDomains(domain_dict, host) {
         return false;
     }
 
-    if (suffix == "gov") {
+    if (suffix == "gov" || suffix == "eu") {
         return true;
-      }
+    }
 
     host = host.substring(0, pos1);
     if (isGoogle(host)) {

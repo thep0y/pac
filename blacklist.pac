@@ -53,6 +53,7 @@ var black_domains = {
         "googletagmanager": 1,
         "stripe": 1,
         "msn": 1,
+        "microsoftonline": 1,
     },
     "community": {
         "caddy": 1,

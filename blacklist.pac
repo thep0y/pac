@@ -70,6 +70,7 @@ var black_domains = {
     },
     "gov": {
         "state": 1,
+        "usda": 1,
     },
     "hk": {
         "google.com": 1

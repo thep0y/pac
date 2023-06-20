@@ -14,6 +14,12 @@ var black_domains = {
     "app": {
         "csb": 1
     },
+    "cloud": {
+        "pinata": 1,
+    },
+    "co": {
+        "fleek": 1,
+    },
     "com": {
         "openai": 1,
         "google": 1,
@@ -54,6 +60,11 @@ var black_domains = {
         "stripe": 1,
         "msn": 1,
         "microsoftonline": 1,
+        "cloudflare-ipfs": 1,
+        "cf-ipfs": 1,
+        "runfission": 1,
+        "via0": 1,
+        "oneloveipfs": 1,
     },
     "community": {
         "caddy": 1,
@@ -87,9 +98,14 @@ var black_domains = {
         "intercom": 1,
         "readthedocs": 1,
         "sentry": 1,
+        "ipfs": 1,
+        "infura-ipfs": 1,
     },
     "it": {
         "redd": 1,
+    },
+    "link": {
+        "dweb": 1,
     },
     "net": {
         "msauth": 1,
@@ -102,6 +118,9 @@ var black_domains = {
         "fbcdn": 1,
         "bing": 1,
         "discordapp": 1,
+    },
+    "network": {
+        "aragon": 1,
     },
     "org": {
         "python": 1,

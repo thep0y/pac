@@ -65,6 +65,7 @@ var black_domains = {
         "runfission": 1,
         "via0": 1,
         "oneloveipfs": 1,
+        "docker": 1,
     },
     "community": {
         "caddy": 1,

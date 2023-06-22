@@ -66,6 +66,7 @@ var black_domains = {
         "via0": 1,
         "oneloveipfs": 1,
         "docker": 1,
+        "sublimetext": 1,
     },
     "community": {
         "caddy": 1,

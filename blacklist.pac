@@ -131,6 +131,7 @@ var black_domains = {
         "pypi": 1,
         "apache": 1,
         "wikipedia": 1,
+        "cgiar": 1,
     },
     "to": {
         "dev": 1,

@@ -67,6 +67,7 @@ var black_domains = {
         "oneloveipfs": 1,
         "docker": 1,
         "sublimetext": 1,
+        "skype": 1,
     },
     "community": {
         "caddy": 1,

@@ -199,11 +199,6 @@ function isInDomains(domain_dict, host) {
 }
 
 function FindProxyForURL(url, host) {
-    alert(url)
-    if (wss.indexOf(url) > -1) {
-        return proxy
-    }
-
     if (isInDomains(black_domains, host)) {
         return proxy
     }

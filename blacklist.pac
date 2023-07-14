@@ -10,6 +10,7 @@ var proxy = "SOCKS5 127.0.0.1:1086;SOCKS 127.0.0.1:1086";
 var black_domains = {
     "ai": {
         "theb": 1,
+        "claude": 1,
     },
     "app": {
         "csb": 1
@@ -199,7 +200,9 @@ function isInDomains(domain_dict, host) {
 }
 
 function FindProxyForURL(url, host) {
-    if (isInDomains(black_domains, host)) {
+    const shouldProxy = isInDomains(black_domains, host)
+
+    if (shouldProxy) {
         return proxy
     }
 

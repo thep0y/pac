@@ -69,6 +69,7 @@ var black_domains = {
         "docker": 1,
         "sublimetext": 1,
         "skype": 1,
+        "apkpure": 1,
     },
     "community": {
         "caddy": 1,

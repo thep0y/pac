@@ -135,6 +135,7 @@ var black_domains = {
         "apache": 1,
         "wikipedia": 1,
         "cgiar": 1,
+        "rust-lang": 1,
     },
     "to": {
         "dev": 1,

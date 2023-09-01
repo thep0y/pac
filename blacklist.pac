@@ -137,6 +137,9 @@ var black_domains = {
         "cgiar": 1,
         "rust-lang": 1,
     },
+    "rs": {
+      "docs": 1
+    },
     "to": {
         "dev": 1,
     }

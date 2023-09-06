@@ -138,7 +138,7 @@ var black_domains = {
         "rust-lang": 1,
     },
     "rs": {
-      "docs": 1
+        "docs": 1
     },
     "to": {
         "dev": 1,
@@ -170,7 +170,7 @@ function isInDomains(domain_dict, host) {
         return false;
     }
 
-    if (suffix == "gov" || suffix == "eu") {
+    if (suffix == "gov" || suffix == "eu" || suffix == "jp") {
         return true;
     }
 

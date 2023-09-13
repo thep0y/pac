@@ -70,6 +70,7 @@ var black_domains = {
         "sublimetext": 1,
         "skype": 1,
         "apkpure": 1,
+        "v2ex": 1,
     },
     "community": {
         "caddy": 1,

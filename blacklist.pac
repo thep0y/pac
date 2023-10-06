@@ -71,6 +71,7 @@ var black_domains = {
         "skype": 1,
         "apkpure": 1,
         "v2ex": 1,
+        "googlesource": 1,
     },
     "community": {
         "caddy": 1,

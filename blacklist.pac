@@ -72,6 +72,7 @@ var black_domains = {
         "apkpure": 1,
         "v2ex": 1,
         "googlesource": 1,
+        "poe": 1,
     },
     "community": {
         "caddy": 1,

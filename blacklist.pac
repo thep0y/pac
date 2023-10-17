@@ -13,7 +13,8 @@ var black_domains = {
         "claude": 1,
     },
     "app": {
-        "csb": 1
+        "csb": 1,
+        "vercel": 1,
     },
     "cloud": {
         "pinata": 1,

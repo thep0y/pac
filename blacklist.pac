@@ -74,6 +74,7 @@ var black_domains = {
         "v2ex": 1,
         "googlesource": 1,
         "poe": 1,
+        "quora": 1,
     },
     "community": {
         "caddy": 1,
@@ -82,7 +83,8 @@ var black_domains = {
         "ant": 1
     },
     "dev": {
-        "pub": 1
+        "pub": 1,
+        "cube": 1,
     },
     "eu": {
         "europa": 1

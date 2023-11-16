@@ -75,6 +75,7 @@ var black_domains = {
         "googlesource": 1,
         "poe": 1,
         "quora": 1,
+        "oaistatic": 1,
     },
     "community": {
         "caddy": 1,

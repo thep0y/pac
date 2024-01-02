@@ -147,6 +147,7 @@ var black_domains = {
         "wikipedia": 1,
         "cgiar": 1,
         "rust-lang": 1,
+        "telegram": 1,
     },
     "rs": {
         "docs": 1

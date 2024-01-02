@@ -120,6 +120,9 @@ var black_domains = {
     "link": {
         "dweb": 1,
     },
+    "me": {
+      "t": 1,
+    },
     "net": {
         "msauth": 1,
         "msftauth": 1,

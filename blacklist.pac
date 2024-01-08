@@ -114,6 +114,7 @@ var black_domains = {
         "sentry": 1,
         "ipfs": 1,
         "infura-ipfs": 1,
+        "typora": 1,
     },
     "it": {
         "redd": 1,

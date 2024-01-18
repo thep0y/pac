@@ -77,6 +77,7 @@ var black_domains = {
         "quora": 1,
         "oaistatic": 1,
         "proquest": 1,
+        "octocaptcha": 1,
     },
     "community": {
         "caddy": 1,

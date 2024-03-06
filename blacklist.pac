@@ -151,6 +151,7 @@ var black_domains = {
         "cgiar": 1,
         "rust-lang": 1,
         "telegram": 1,
+        "addons.mozilla": 1,
     },
     "rs": {
         "docs": 1

@@ -78,6 +78,7 @@ var black_domains = {
         "oaistatic": 1,
         "proquest": 1,
         "octocaptcha": 1,
+        "gstatic": 1,
     },
     "community": {
         "caddy": 1,

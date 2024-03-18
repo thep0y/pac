@@ -80,6 +80,7 @@ var black_domains = {
         "octocaptcha": 1,
         "gstatic": 1,
         "chatgpt": 1,
+        "npmjs": 1,
     },
     "community": {
         "caddy": 1,

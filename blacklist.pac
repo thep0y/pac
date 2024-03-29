@@ -81,6 +81,8 @@ var black_domains = {
         "gstatic": 1,
         "chatgpt": 1,
         "npmjs": 1,
+        "microsoftpersonalcontent": 1,
+        "self.events.data.microsoft": 1,
     },
     "community": {
         "caddy": 1,

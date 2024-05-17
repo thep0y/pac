@@ -142,6 +142,7 @@ var black_domains = {
         "fbcdn": 1,
         "bing": 1,
         "discordapp": 1,
+        "quoracdn": 1
     },
     "network": {
         "aragon": 1,

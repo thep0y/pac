@@ -81,7 +81,7 @@ var black_domains = {
         "gstatic": 1,
         "chatgpt": 1,
         "npmjs": 1,
-        "microsoftpersonalcontent": 1,
+        // "microsoftpersonalcontent": 1, // onedrive 认证需要用到的域名
         "self.events.data.microsoft": 1,
     },
     "community": {

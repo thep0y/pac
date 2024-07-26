@@ -11,6 +11,7 @@ var black_domains = {
     "ai": {
         "theb": 1,
         "claude": 1,
+        "perplexity": 1,
     },
     "app": {
         "csb": 1,

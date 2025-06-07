@@ -88,6 +88,7 @@ var black_domains = {
     "self.events.data.microsoft": 1,
     bootstrapcdn: 1,
     "copilot.microsoft": 1, // bing ai 改为 copilot 后的域名
+    instagram: 1,
   },
   community: {
     caddy: 1,

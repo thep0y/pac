@@ -152,6 +152,7 @@ var black_domains = {
   },
   network: {
     aragon: 1,
+    hysteria: 1,
   },
   org: {
     python: 1,

@@ -90,6 +90,7 @@ var black_domains = {
     "copilot.microsoft": 1, // bing ai 改为 copilot 后的域名
     instagram: 1,
     googlesyndication: 1,
+    brave: 1,
   },
   community: {
     caddy: 1,

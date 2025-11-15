@@ -84,6 +84,7 @@ var black_domains = {
     npmjs: 1,
     microsoftpersonalcontent: 1, // onedrive 认证需要用到的域名
     "self.events.data.microsoft": 1,
+    googlesyndication: 1,
   },
   community: {
     caddy: 1,

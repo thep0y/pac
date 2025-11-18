@@ -163,6 +163,7 @@ var black_domains = {
     "rust-lang": 1,
     telegram: 1,
     "addons.mozilla": 1,
+    greasyfork: 1,
   },
   rs: {
     docs: 1,

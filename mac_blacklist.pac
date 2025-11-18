@@ -12,6 +12,7 @@ var black_domains = {
     theb: 1,
     claude: 1,
     perplexity: 1,
+    x: 1,
   },
   app: {
     csb: 1,

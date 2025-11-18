@@ -13,6 +13,7 @@ var black_domains = {
     claude: 1,
     perplexity: 1,
     trae: 1,
+    x: 1,
     // qwen: 1,
   },
   app: {

@@ -171,6 +171,9 @@ var black_domains = {
   rs: {
     docs: 1,
   },
+  sk: {
+    "z-library": 1,
+  },
   to: {
     dev: 1,
   },

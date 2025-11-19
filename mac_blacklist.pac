@@ -87,6 +87,7 @@ var black_domains = {
     "self.events.data.microsoft": 1,
     googlesyndication: 1,
     brave: 1,
+    hostloc: 1,
   },
   community: {
     caddy: 1,

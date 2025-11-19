@@ -92,6 +92,7 @@ var black_domains = {
     instagram: 1,
     googlesyndication: 1,
     brave: 1,
+    hostloc: 1,
   },
   community: {
     caddy: 1,

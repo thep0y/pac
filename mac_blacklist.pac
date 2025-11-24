@@ -102,6 +102,9 @@ var black_domains = {
     cube: 1,
     fluentui: 1, // 没有被墙，但访问太慢
   },
+  do: {
+    linux: 1,
+  },
   eu: {
     europa: 1,
   },

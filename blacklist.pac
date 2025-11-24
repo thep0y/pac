@@ -95,6 +95,7 @@ var black_domains = {
     hostloc: 1,
     grok: 1,
     grokipedia: 1,
+    x: 1,
   },
   community: {
     caddy: 1,

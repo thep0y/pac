@@ -30,7 +30,7 @@ var black_domains = {
     youtube: 1,
     ytimg: 1,
     googlevideo: 1,
-    // googleapis: 1,
+    googleapis: 1, // 此域名偶尔被墙，先加入黑名单
     ggpht: 1,
     googleusercontent: 1,
     github: 1,

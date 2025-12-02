@@ -178,6 +178,7 @@ var black_domains = {
     "addons.mozilla": 1,
     greasyfork: 1,
     openrouteservice: 1,
+    "annas-archive": 1,
   },
   rs: {
     docs: 1,

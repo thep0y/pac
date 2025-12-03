@@ -97,6 +97,7 @@ var black_domains = {
     grokipedia: 1,
     x: 1,
     twimg: 1,
+    apparyllis: 1,
   },
   community: {
     caddy: 1,

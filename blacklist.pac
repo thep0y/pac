@@ -119,6 +119,7 @@ var black_domains = {
   gg: {
     discord: 1,
   },
+  goog: { usercontent: 1 },
   gov: {
     state: 1,
     usda: 1,

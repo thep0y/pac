@@ -98,6 +98,7 @@ var black_domains = {
     x: 1,
     twimg: 1,
     apparyllis: 1,
+    whatsapp: 1,
   },
   community: {
     caddy: 1,

@@ -165,6 +165,7 @@ var black_domains = {
     bing: 1,
     discordapp: 1,
     quoracdn: 1,
+    whatsapp: 1,
   },
   network: {
     aragon: 1,

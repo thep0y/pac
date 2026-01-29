@@ -151,6 +151,7 @@ var black_domains = {
   },
   me: {
     t: 1,
+    wa: 1,
   },
   net: {
     msauth: 1,

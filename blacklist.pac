@@ -20,6 +20,9 @@ var black_domains = {
     csb: 1,
     vercel: 1,
   },
+  biz: {
+    whatsapp: 1,
+  },
   cloud: {
     pinata: 1,
   },

@@ -103,6 +103,7 @@ var black_domains = {
     apparyllis: 1,
     whatsapp: 1,
     bintray: 1,
+    cdninstagram: 1,
   },
   community: {
     caddy: 1,

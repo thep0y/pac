@@ -190,6 +190,7 @@ var black_domains = {
     greasyfork: 1,
     openrouteservice: 1,
     "annas-archive": 1,
+    ctext: 1,
   },
   rs: {
     docs: 1,

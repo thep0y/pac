@@ -192,6 +192,7 @@ var black_domains = {
     openrouteservice: 1,
     "annas-archive": 1,
     ctext: 1,
+    openstreetmap: 1,
   },
   rs: {
     docs: 1,

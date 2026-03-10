@@ -104,6 +104,7 @@ var black_domains = {
     whatsapp: 1,
     bintray: 1,
     cdninstagram: 1,
+    tabbitbrowser: 1,
   },
   community: {
     caddy: 1,
